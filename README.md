@@ -4,4 +4,7 @@
 ## Projemin Adı
 *Sürücü Kursu Otomasyonu*
 ## Projemin Amacı
-**Güncel ders saatleri ve günlerini gösteren, güncel ehliyet tiplerini ve fiyatlarını gösteren bir otomasyon olacak.**
+**Güncel ders saatleri ve günlerini gösteren, güncel ehliyet tiplerini ve fiyatlarını gösteren bir uygulama  olacak.**
+*Sürücü kursunda çalıştığım için böyle bir uygulama yapmak istedim.* 
+*Amacım güncel ehliyet kurslarının günlerini , ehliyet çeşitlerini  ve hangi ehliyetin ne kadar ücreti olduğunu sunmak.*
+

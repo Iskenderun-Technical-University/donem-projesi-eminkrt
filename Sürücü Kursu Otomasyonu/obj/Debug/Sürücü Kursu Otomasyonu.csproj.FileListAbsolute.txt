@@ -1,0 +1,32 @@
+C:\Users\msi-nb\source\repos\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\bin\Debug\Sürücü Kursu Otomasyonu.exe.config
+C:\Users\msi-nb\source\repos\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\bin\Debug\Sürücü Kursu Otomasyonu.exe
+C:\Users\msi-nb\source\repos\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\bin\Debug\Sürücü Kursu Otomasyonu.pdb
+C:\Users\msi-nb\source\repos\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü Kursu Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\msi-nb\source\repos\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü Kursu Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\msi-nb\source\repos\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.Form1.resources
+C:\Users\msi-nb\source\repos\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.Properties.Resources.resources
+C:\Users\msi-nb\source\repos\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü Kursu Otomasyonu.csproj.GenerateResource.cache
+C:\Users\msi-nb\source\repos\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü Kursu Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\msi-nb\source\repos\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü Kursu Otomasyonu.exe
+C:\Users\msi-nb\source\repos\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü Kursu Otomasyonu.pdb
+C:\Users\msi-nb\source\repos\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.Form2.resources
+C:\Users\msi-nb\source\repos\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.Surucu_Kursuna_Hosgeldiniz.resources
+C:\Users\msi-nb\source\repos\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.Form3.resources
+C:\Users\msi-nb\source\repos\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.Şifre_Güncelleme.resources
+C:\Users\msi-nb\source\repos\Sürücü Kursu Otomasyonu\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.Son.resources
+C:\Users\msi-nb\Desktop\192503079 Muhammet Emin Kurt\192503079 Muhammet Emin Kurt\Sürücü Kursu Otomasyonu\bin\Debug\Sürücü Kursu Otomasyonu.exe.config
+C:\Users\msi-nb\Desktop\192503079 Muhammet Emin Kurt\192503079 Muhammet Emin Kurt\Sürücü Kursu Otomasyonu\bin\Debug\Sürücü Kursu Otomasyonu.exe
+C:\Users\msi-nb\Desktop\192503079 Muhammet Emin Kurt\192503079 Muhammet Emin Kurt\Sürücü Kursu Otomasyonu\bin\Debug\Sürücü Kursu Otomasyonu.pdb
+C:\Users\msi-nb\Desktop\192503079 Muhammet Emin Kurt\192503079 Muhammet Emin Kurt\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü Kursu Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\msi-nb\Desktop\192503079 Muhammet Emin Kurt\192503079 Muhammet Emin Kurt\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü Kursu Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\msi-nb\Desktop\192503079 Muhammet Emin Kurt\192503079 Muhammet Emin Kurt\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.Form1.resources
+C:\Users\msi-nb\Desktop\192503079 Muhammet Emin Kurt\192503079 Muhammet Emin Kurt\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.Form2.resources
+C:\Users\msi-nb\Desktop\192503079 Muhammet Emin Kurt\192503079 Muhammet Emin Kurt\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.Form3.resources
+C:\Users\msi-nb\Desktop\192503079 Muhammet Emin Kurt\192503079 Muhammet Emin Kurt\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.Properties.Resources.resources
+C:\Users\msi-nb\Desktop\192503079 Muhammet Emin Kurt\192503079 Muhammet Emin Kurt\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.Son.resources
+C:\Users\msi-nb\Desktop\192503079 Muhammet Emin Kurt\192503079 Muhammet Emin Kurt\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.Surucu_Kursuna_Hosgeldiniz.resources
+C:\Users\msi-nb\Desktop\192503079 Muhammet Emin Kurt\192503079 Muhammet Emin Kurt\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.Şifre_Güncelleme.resources
+C:\Users\msi-nb\Desktop\192503079 Muhammet Emin Kurt\192503079 Muhammet Emin Kurt\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü Kursu Otomasyonu.csproj.GenerateResource.cache
+C:\Users\msi-nb\Desktop\192503079 Muhammet Emin Kurt\192503079 Muhammet Emin Kurt\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü Kursu Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\msi-nb\Desktop\192503079 Muhammet Emin Kurt\192503079 Muhammet Emin Kurt\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü Kursu Otomasyonu.exe
+C:\Users\msi-nb\Desktop\192503079 Muhammet Emin Kurt\192503079 Muhammet Emin Kurt\Sürücü Kursu Otomasyonu\obj\Debug\Sürücü Kursu Otomasyonu.pdb
